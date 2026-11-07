@@ -1,0 +1,4 @@
+interface:
+  display_name: "Home Daily Brief"
+  short_description: "Plan your day across your existing life admin tools"
+  default_prompt: "Use $home-daily-brief to check my configured services, plan a realistic day, and help me follow through."

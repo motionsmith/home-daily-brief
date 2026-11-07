@@ -1,0 +1,14 @@
+Home Daily Brief
+
+Adapted from the morning-brief skill in AutomatedMarketer/cowork-ai-os.
+Upstream author: Nuno Tavares (Automated Marketer / VCInc).
+Upstream license: MIT.
+Source revision inspected: 64cdc9ebd9a7205b04e8a37fd528f57f53a60fef
+Source: https://github.com/AutomatedMarketer/cowork-ai-os/blob/64cdc9ebd9a7205b04e8a37fd528f57f53a60fef/cowork-ai-os/skills/morning-brief/SKILL.md
+
+This adaptation replaces business onboarding and team goals with personal and
+household planning, uses the host's existing connectors, adds source reconciliation
+and permission-aware follow-through, and retains and expands the upstream
+editorial guidance. It is not an official AutomatedMarketer or OpenAI product.
+
+The upstream copyright and permission notice are preserved in LICENSE.
